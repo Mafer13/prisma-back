@@ -9,7 +9,7 @@ CORS(app)
 
 @app.route('/')
 def main():
-    return "Servicio OK"
+    return "Espero ese cinco en el corte :)"
 
 """
 - Metodo que devuelve un bill dado su identificador
